@@ -101,6 +101,8 @@ Create Resident → Assign Unit → Generate Invoice → Payment → Update Stat
 
 Frontend → API Gateway → Services → Database → Payment Gateway
 
+<img width="1661" height="366" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/70c2d56d-f23c-4581-a7e7-bb95d53e5e5b" />
+
 ---
 
 # ⚙️ LLD

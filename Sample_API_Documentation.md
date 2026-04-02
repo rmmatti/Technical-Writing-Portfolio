@@ -31,12 +31,12 @@ POST /residents
 
 Request:
 {
-  "firstName": "John",
-  "lastName": "Doe",
-  "email": "john@example.com",
-  "phone": "9876543210",
+  "firstName": "Rakesh",
+  "lastName": "Matti",
+  "email": "mattirakesh@example.com",
+  "phone": "6362786798",
   "unitId": "A-101",
-  "moveInDate": "2026-04-01"
+  "moveInDate": "2025-04-01"
 }
 
 Response:

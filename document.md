@@ -103,3 +103,42 @@ This document is intended for:
 3. Save record  
 
 ### Resident Lifecycle
+
+### Resident Added → Assigned Unit → Active → Move-Out → Archived
+
+
+---
+
+## 📢 Communication Management
+
+### Create Announcement
+
+1. Go to **Communications → Announcements**  
+2. Click **Create Announcement**  
+3. Add:
+   - Title  
+   - Message  
+   - Target Audience  
+4. Publish  
+
+### Notification Channels
+
+- Email  
+- SMS  
+- In-App Notifications  
+
+---
+
+## 🛠 Service Request Management
+
+### Workflow
+
+```mermaid
+flowchart TD
+    A[Resident Raises Request] --> B[Admin Reviews]
+    B --> C[Assign to Staff]
+    C --> D[Work in Progress]
+    D --> E[Completed]
+    E --> F[Resident Feedback]
+
+> Billing workflow - Invoice Generated → Notification Sent → Payment Received → Receipt Issued

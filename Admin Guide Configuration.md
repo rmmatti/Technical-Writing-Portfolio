@@ -10,7 +10,7 @@ This guide provides detailed instructions for **system administrators** to confi
 
 ## 🎯 Target Audience
 
-This document is intended for:
+This document is intended for:.
 
 ### 1. System Administrators
 - Configure platform settings  

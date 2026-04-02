@@ -128,17 +128,3 @@ This document is intended for:
 - In-App Notifications  
 
 ---
-
-## 🛠 Service Request Management
-
-### Workflow
-
-```mermaid
-flowchart TD
-    A[Resident Raises Request] --> B[Admin Reviews]
-    B --> C[Assign to Staff]
-    C --> D[Work in Progress]
-    D --> E[Completed]
-    E --> F[Resident Feedback]
-
-> Billing workflow - Invoice Generated → Notification Sent → Payment Received → Receipt Issued

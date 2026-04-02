@@ -1,4 +1,4 @@
-# 👨‍💻 Rakesh M – Technical Writing Portfolio
+# 👨‍💻 Rakesh Matti – Technical Writing Portfolio
 
 Welcome to my technical writing portfolio. This repository showcases my expertise in creating **end-to-end documentation** for enterprise software applications, including user guides, API documentation, architecture diagrams, and release notes.
 

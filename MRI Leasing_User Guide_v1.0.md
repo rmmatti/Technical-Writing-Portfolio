@@ -2,7 +2,7 @@
 
 Write your **leasing operations** efficiently using the *MRI Leasing Portal*. This guide helps users navigate and perform key actions within the system.
 
-## Features
+## Features:
 
 - Tenant onboarding and management  
 - Lease creation and tracking  

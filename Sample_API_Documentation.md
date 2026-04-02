@@ -115,6 +115,15 @@ Tables:
 Residents(residentId, name, unitId, status)  
 Payments(paymentId, residentId, amount, status)
 
+## Data Flow
+UI sends request to API Gateway
+Gateway routes to appropriate service
+Service processes logic
+Data stored in database
+External payment gateway invoked if required
+
+<img width="1728" height="802" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/698f60a4-4e61-4131-8303-9e4399bcb00d" />
+
 ---
 
 # 🖥 UI Mapping
